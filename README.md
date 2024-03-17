@@ -11,10 +11,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=antonin-tarrade&theme=nord&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=antonin-tarrade&theme=nord&hide_border=false)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=antonin-tarrade&theme=nord&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
-</p>  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=antonin-tarrade&theme=nord&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=antonin-tarrade&theme=nord&hide=true&no-bg=false&margin-w=4)
