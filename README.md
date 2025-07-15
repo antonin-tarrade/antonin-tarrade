@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi there ! My name is Antonin <br>🥐 I’m a French student in computer science<br>👾 I Like making video games and participating in game jams<br>🌐 But I'm also interested in web and software development!<br>🌱 I’m currently learning SvelteKit and React<br>
+👋 Hi there ! My name is Antonin <br>🥐 I’m a French student in computer science<br>👾 I Like making video games and participating in game jams<br>🌐 But I'm also interested in web and software development!<br>🌱 I’m currently learning React and Blender <br>
 
 
 ## 🌐 Socials:
